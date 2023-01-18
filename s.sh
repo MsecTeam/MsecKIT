@@ -1,3 +1,3 @@
-https://github.com/htr-tech/zphisher
+git clone https://github.com/htr-tech/zphisher
 cd zphisher
 bash zphisher.sh
